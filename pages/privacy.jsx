@@ -32,7 +32,7 @@ Requests for deletion of data could take up to <a className="text-white">30 Days
 <p>We reserve the right to update or modify this Policy at any time and this could be done without prior notice. We recommend reviewing our Policy periodically. The last time this Policy was updated is shown at the top of the page. Continuing to use our bot after any changes have been made will indicate your agreement to the revised Policy.</p>    
 <div className="py-3"></div>    
 <p><a className="text-white">CONTACT US</a></p>    
-<p>You may contact us via our <a className="text-white" href="https://discord.gg/zG5CDR4sxH">Junibot Support Server</a></p>.
+<p>You may contact us via our <a className="text-white" href="https://discord.gg/zG5CDR4sxH">Junibot Support Server.</a></p>
       </div>
       </div>
     );
