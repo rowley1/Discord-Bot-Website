@@ -76,7 +76,7 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                            <img src="/img/logo2.png" 
+                            <img src="https://cdn.discordapp.com/attachments/1006962822363750401/1060312614892220416/Junibot_Community.webp" 
                                 className={`
                                     rounded-full 
                                 `}
