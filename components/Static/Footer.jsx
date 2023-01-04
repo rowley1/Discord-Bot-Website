@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="/img/https://cdn.discordapp.com/attachments/1006962822363750401/1060312614892220416/Junibot_Community.webp" className="rounded-full w-12" />
+                                <img src="/img/Junibot_Community.webp" className="rounded-full w-12" />
                                 <p className="font-semibold text-xl text-white">JUNIBOT</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
