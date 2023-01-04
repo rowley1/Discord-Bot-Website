@@ -33,13 +33,7 @@ Requests for deletion of data could take up to <a className="text-white">30 Days
 <div className="py-3"></div>    
 <p><a className="text-white">CONTACT US</a></p>    
 <p>You may contact us via our <a className="text-white" href="https://discord.gg/zG5CDR4sxH">Junibot Support Server</a>.
-    
-    
-
-    
-    
-
-            </div>
-            </div>
+      </div>
+      </div>
     );
-};
+  };
