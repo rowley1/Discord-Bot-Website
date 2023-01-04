@@ -2,7 +2,7 @@ export default function Tos() {
   return (
     <div>
      <h2 className="mt-4 text-white font-bold text-3xl">Terms of Services for Junibot</h2>
-      <p className="text-sm text-white/30 mb-1">Last Update: 20/05/2022 🆕️</p>
+      <p className="text-sm text-white/30 mb-1">Last Update: 04/01/2023 🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
 
 <p>These Terms of Service ("Terms") govern your usage of any Services provided by Junibot ("us", "we", "our"). Please read these terms carefully.</p>
