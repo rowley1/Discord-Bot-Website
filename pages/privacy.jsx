@@ -5,9 +5,21 @@ export default function Privacy() {
             <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for Junibot</h1>
             <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
-        <p><a className="text-white">DATA COLLECTİON/STORAGE</a></p>
+ 
+<p><a className="text-white">DATA COLLECTİON/STORAGE</a></p>
 <p>Data collected and stored <a className="text-white">(when necessary)</a> is done when provided by a user voluntarily via running the bot's commands.
 Very minimal data is collected <a className="text-white">(Discord user ID)</a> automatically for moderation purposes to provide our service.</p>
+<p><a className="text-white">Third Parties</a></p>
+<p>We do not share any data with third parties.</p>
+    
+    
+    
+    
+    
+    
+    
+    
+    
         <p>⊳ To use the Astra bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white">(READ MESSAGES, SEND MESSAGES, EMBED LINKS, ATTACH FILES, READ MESSAGE HISTORY, CONNECT, SPEAK, USE VOICE ACTIVITY, PRIORITY SPEAKER)</a></p>
         <div className="py-3"></div>
         <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot when using certain commands from the bot commands.</p>
