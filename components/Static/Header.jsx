@@ -13,8 +13,8 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
 
                 <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
                     <div className="flex items-center">
-                        <img width="32" className="rounded-full icon-glow" src="/img/logo.jpg" />
-                        <p className=" font-extrabold ml-1 text-2xl">Astra Bot</p>
+                        <img width="32" className="rounded-full icon-glow" src="https://cdn.discordapp.com/attachments/1006962822363750401/1060312614892220416/Junibot_Community.webp" />
+                        <p className=" font-extrabold ml-1 text-2xl">Junibot</p>
                     </div>
                     <button onClick={() => setOpen(!open)}><i className="cursor-pointer fa fa-times text-xl mr-2" /></button>
                 </div>
